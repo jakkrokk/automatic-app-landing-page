@@ -18,7 +18,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : jakkrokk                                
 your_link                                 : http://ilka.jakkrokk.com/                     
-your_city                                 : Tokyop                                
+your_city                                 : Japan                                
 email_address                             : app.jakkrokk+ilka@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
@@ -37,15 +37,15 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#000000"
+topbar_color                              : "#07aaf4"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#363b3d"
+cover_image                               : assets/1_20190411.png                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#07aaf4"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "ffffff"
 
