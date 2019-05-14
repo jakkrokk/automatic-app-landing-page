@@ -30,12 +30,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : いるかについて
-    description                           : うそをつく必要はありません<br>飾る必要もありません<br>炎上しません<br>投稿しても誰だか分りません<br>つながらないSNS ilka（いるか）　は、他人とつながるのではなく、自分の心との出会いを目指した、唯一の無料匿名SNSです。
+  - title                                 : はじめに
+    description                           : うそをつく必要はありません<br>飾る必要もありません<br>炎上しません<br>投稿しても誰だか分りません<br><br>つながらないSNS ilka（いるか）　は、他人とつながるのではなく、自分の心との出会いを目指した、唯一の無料匿名SNSです。
     fontawesome_icon_name                 : magic
 
+  - title                                 : いるかについて
+    description                           : つながらないSNS ilka（いるか）　は、他人とつながるのではなく、自分の心との出会いを目指した、唯一の無料匿名SNSです。
+    fontawesome_icon_name                 : magic
+	
   - title                                 : いるかのコンセプト
-    description                           : SNS疲れの方、最近言いたいことが言えてない方　こんな方のために作りました！
+    description                           : SNS疲れの方、SNSですら最近言いたいことが言えてない方、でもSNSがやめられない方<br><br>こんな方のために作りました！
     fontawesome_icon_name                 : magic
 
 
@@ -44,7 +48,7 @@ topbar_color                              : "#07aaf4"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/1_20190411.png
+cover_image                               : assets/umi_sora.png
 cover_overlay_color                       : "#07aaf4"
 cover_overlay_transparency                : 0.8
 
@@ -52,7 +56,7 @@ device_color                              : white
 
 body_background_color                     : "ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#07aaf4"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -61,10 +65,10 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#07aaf4"
 feature_icons_background_color            : "#e6e6e6"
 
-social_icons_foreground_color             : "#666666"
+social_icons_foreground_color             : "#07aaf4"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
