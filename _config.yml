@@ -1,8 +1,8 @@
 # App Info
-ios_app_id                                : 643541976
+ios_app_id                                :643541976
 
-appstore_link                             : https://itunes.apple.com/jp/app/id643541976?mt=8
-playstore_link                            : https://play.google.com/store/apps/details?id=com.jakkrokk.ilka&hl=ja
+appstore_link                             :https://itunes.apple.com/jp/app/id643541976?mt=8
+playstore_link                            :https://play.google.com/store/apps/details?id=com.jakkrokk.ilka&hl=ja
 presskit_download_link                    : 
 
 app_icon                                  : assets/DefaultIcon.png
@@ -11,7 +11,6 @@ app_price                                 : 無料
 app_description                           : ilka は他人とつながるのではなく、自分の心との出会いを目指した、唯一のSNSです。
 
 enable_smart_app_banner                   : true
-
 
 
 # Information About Yourself
