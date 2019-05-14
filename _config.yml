@@ -30,8 +30,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : 2019/04/11
-    description                           : いくつかバグフィックスを行いました
+  - title                                 : いるかについて
+    description                           : うそをつく必要はありません<br>飾る必要もありません<br>炎上しません<br>投稿しても誰だか分りません<br>つながらないSNS ilka（いるか）　は、他人とつながるのではなく、自分の心との出会いを目指した、唯一の無料匿名SNSです。
+    fontawesome_icon_name                 : magic
+
+  - title                                 : いるかのコンセプト
+    description                           : SNS疲れの方、最近言いたいことが言えてない方　こんな方のために作りました！
     fontawesome_icon_name                 : magic
 
 
